@@ -9,17 +9,19 @@
 - 🌱 Learning **Backend Development, Flutter App Development, Automation, AI, and Data Analysis**  
 - 👨‍💻 Passionate about building **efficient and scalable software solutions**  
 - 🎯 Strong problem-solving skills in **C++, Python, Java**  
-- ⚡ Fun fact: I enjoy creating interactive apps and automation scripts to simplify daily tasks
+- ⚡ Fun fact: I enjoy creating interactive apps, automation scripts, and analyzing data to solve real-world problems
 
 ---
 
 ## 🛠️ Skills & Technologies
-| Languages | Frameworks & Tools | Other Skills |
-|-----------|-----------------|--------------|
-| Python 🐍 | Flask | Web Scraping |
-| C++ | Flutter | Automation |
-| Java | Bootstrap | SQL & Databases |
-| HTML/CSS | REST APIs | Git & GitHub |
+
+| Category | Skills & Tools |
+|----------|----------------|
+| **Programming Languages** | Python 🐍, C++, Java, HTML/CSS, JavaScript |
+| **Frameworks & Development** | Flask, Flutter, Bootstrap, REST APIs |
+| **Automation & Data** | Web Scraping, Python Automation, Data Analysis |
+| **Productivity & Office Tools** | Microsoft Office (Word, Excel, PowerPoint), Google Workspace |
+| **Other Tools** | Git & GitHub, SQL & Databases, AI Prompting Tools |
 
 ---
 
